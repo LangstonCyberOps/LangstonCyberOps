@@ -1,16 +1,21 @@
-## Hi there 👋
+# Matt Langston
+### Cybersecurity & IT Professional | U.S. Navy Veteran
 
-<!--
-**LangstonCyberOps/LangstonCyberOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity professional pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University, with an anticipated graduation of May 2027.
 
-Here are some ideas to get you started:
+## Certifications
+- CompTIA CySA+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- ITIL 4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Network Security and Vulnerability Assessment
+- Incident Response and Threat Detection
+- Linux and Windows Administration
+- Wireshark, Nmap, Nessus and SIEM Fundamentals
+- Python and Bash Scripting
+
+## Current Focus
+Building hands-on cybersecurity projects and developing skills for SOC Analyst and Cybersecurity Analyst positions.
